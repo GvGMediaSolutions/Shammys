@@ -793,7 +793,7 @@
                 "textTitle": "Locally owned and Operated",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "We have been serving our community since we first opened our doors in ####.",
+                "text": "We have been serving our community since we first opened our doors in 2017.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"index.html#content10-e\" data-toolbar=\"-mbrBtnMove\">Pricing Options</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success-outline\" data-app-placeholder=\"Type Text\" href=\"index.html#contacts1-b\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
               }
             ]
