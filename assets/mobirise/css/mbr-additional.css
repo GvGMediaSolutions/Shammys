@@ -1426,10 +1426,22 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s0SrAAc7eD {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f7ed4a;
+  background: linear-gradient(45deg, #f7ed4a, #f9f295);
+}
+.cid-s0SrAAc7eD .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s0SrAAc7eD .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-s0RNP1PR8W {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
 }
 .cid-s0RNP1PR8W .pricing {
   padding: 3.3rem;
